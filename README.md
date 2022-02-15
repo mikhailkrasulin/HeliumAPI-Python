@@ -13,7 +13,7 @@ Just create a `HeliumAPI` object after importing it.
 All data is being returned in `json`.
 
 ```python
-from HeliumAPIpy import HeliumAPI
+from HeliumAPIpy.api import HeliumAPI
 api = HeliumAPI()
 ```
   
