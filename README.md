@@ -4,7 +4,7 @@ Unofficial API for [Helium Explorer](https://explorer.helium.com/) written in Py
 See more information at: https://docs.helium.com/api       <p align="center"> <img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/17932/Roundel_blue.png" width="150" height="150" /></p>
 # Installing HeliumAPIpy:
 
-`pip install HeliumAPIpy`
+`pip install heliumapipy`
 
 # Basic usage:
 
@@ -13,7 +13,7 @@ Just create a `HeliumAPI` object after importing it.
 All data is being returned in `json`.
 
 ```python
-from HeliumAPIpy.api import HeliumAPI
+from heliumapipy.api import HeliumAPI
 api = HeliumAPI()
 ```
   

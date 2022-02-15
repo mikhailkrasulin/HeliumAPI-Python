@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="heliumapipy",
-    version="1.3",
+    version="1.5",
     author="mkrasulin2020",
     author_email="mkrasulin2020@gmail.com",
     description="Unofficial api for Helium Explorer",
