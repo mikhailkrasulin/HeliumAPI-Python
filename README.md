@@ -1,10 +1,10 @@
-# HeliumAPI-Python
+# HeliumAPIpy
 Unofficial API for [Helium Explorer](https://explorer.helium.com/) written in Python 3.
 
 See more information at: https://docs.helium.com/api       <p align="center"> <img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/17932/Roundel_blue.png" width="150" height="150" /></p>
-# Installing HeliumAPI-Python:
+# Installing HeliumAPIpy:
 
-`pip install HeliumAPI-Python`
+`pip install HeliumAPIpy`
 
 # Basic usage:
 
@@ -13,7 +13,7 @@ Just create a `HeliumAPI` object after importing it.
 All data is being returned in `json`.
 
 ```python
-from HeliumAPI-Python import HeliumAPI
+from HeliumAPIpy import HeliumAPI
 api = HeliumAPI()
 ```
   
