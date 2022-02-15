@@ -10,8 +10,12 @@ See more information at: https://docs.helium.com/api       <p align="center"> <i
 
 Just create a `HeliumAPI` object after importing it.
 
-  `from HeliumAPI-Python import HeliumAPI`<br/>
-  `api = HeliumAPI()`
+All data is being returned in `json`.
+
+```python
+from HeliumAPI-Python import HeliumAPI
+api = HeliumAPI()
+```
   
 ### Get token supply:
 ```python
